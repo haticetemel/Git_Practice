@@ -8,4 +8,6 @@ public class Store {
     // Buy bread
 
     // added more listed
+
+    // we are done shopping
 }
